@@ -1,4 +1,4 @@
-# KERAS_UNET_FOR_MAT
+# Keras with mat for U-net
 
 ###### Made by. Jin-soo, Kim
 
