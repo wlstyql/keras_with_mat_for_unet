@@ -55,7 +55,7 @@ matplolib==2.1.1
 > "SUPER" method <SUPER-method/> https://synapse.koreamed.org/DOIx.php?id=10.13104/imri.2018.22.1.37
 ###### (c) Deep-Learning result image
 
-----------------------------------
+- - -
 ### Water-Fat seperation result
 
 ![wf_result](./images/wf_result.png)
