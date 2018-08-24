@@ -3,6 +3,7 @@
 ###### Implementation of the Keras U-Net for ".mat" file of MATLAB.
 
 ###### Image pattern extraction using U-Net 
+###### 
 
 ## Requirements
 
@@ -22,12 +23,14 @@ numpy==1.14.2
 matplolib==2.1.1
 
 ~~~
+###### 
 
 ## Augmentation
 
 ###### image augmentation with rotation 90 degree, up-down filp, left-right flip randomly.
 
 ![augmentation]( ./images/augmentation.png)
+###### 
 
 
 ## Model
@@ -39,6 +42,7 @@ matplolib==2.1.1
 ###### U-Net: Convolutional Networks for Biomedical Image Segmentation > <U-net/> <https://arxiv.org/abs/1505.04597>
 
 ######                    slight reference code > https://github.com/jocicmarko/ultrasound-nerve-segmentation/
+###### 
 
 ## Results
 ### Deep-Learning results
@@ -49,6 +53,7 @@ matplolib==2.1.1
 ###### (a) Input image (with field inhomogeneity artifact in MRI, out-of-phase angle image)
 ###### (b) Label image (with field inhomogeneity artifact removal "SUPER" method in MRI > <SUPER-method/> https://synapse.koreamed.org/DOIx.php?id=10.13104/imri.2018.22.1.37)
 ###### (c) Deep-Learning result image
+###### 
 
 ### Water-Fat seperation result
 
@@ -57,11 +62,12 @@ matplolib==2.1.1
 ###### (a) Before artifact removal
 ###### (b) After artifact removal with "SUPER" method
 ###### (c) After artifact removal with trained "SUPER" method Deep-Learning
-
+###### 
 
 ## Feature visualization
 
 ![feature](./images/feature.png)
+
 ###### (a) Conv2D layer1
 ###### (b) Conv2D layer2
 ###### (c) Conv2D layer3
