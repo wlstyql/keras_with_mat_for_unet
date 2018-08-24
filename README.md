@@ -23,8 +23,7 @@ matplolib==2.1.1
 
 ~~~
 
-## Pre-processing
-#### Augmentation
+## Augmentation
 
 ###### image augmentation with rotation 90 degree, up-down filp, left-right flip randomly.
 
@@ -42,7 +41,7 @@ matplolib==2.1.1
 ######                    slight reference code > https://github.com/jocicmarko/ultrasound-nerve-segmentation/
 
 ## Results
-#### Deep-Learning results
+### Deep-Learning results
 ###### A few slices of Input image, Label image, Result image comparison
 
 ![result]( ./images/result.png)
@@ -51,7 +50,7 @@ matplolib==2.1.1
 ###### (b) Label image (with field inhomogeneity artifact removal "SUPER" method in MRI > <SUPER-method/> https://synapse.koreamed.org/DOIx.php?id=10.13104/imri.2018.22.1.37)
 ###### (c) Deep-Learning result image
 
-#### Water-Fat seperation result
+### Water-Fat seperation result
 
 ![wf_result](./images/wf_result.png)
 
