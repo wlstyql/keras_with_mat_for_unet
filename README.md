@@ -1,6 +1,6 @@
 # KERAS_UNET_FOR_MAT
 
-###### From. Jin-soo, Kim
+###### Made by. Jin-soo, Kim
 
 ###### Implementation of the Keras U-Net for ".mat" file of MATLAB.
 
