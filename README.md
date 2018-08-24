@@ -38,9 +38,10 @@ matplolib==2.1.1
 
 ![model]( ./images/model.png)
 
-###### U-Net: Convolutional Networks for Biomedical Image Segmentation > <U-net/> <https://arxiv.org/abs/1505.04597>
-
-######                    slight reference code > https://github.com/jocicmarko/ultrasound-nerve-segmentation/
+###### U-Net
+> U-Net: Convolutional Networks for Biomedical Image Segmentation   <U-net/> <https://arxiv.org/abs/1505.04597>
+###### slight reference code
+> https://github.com/jocicmarko/ultrasound-nerve-segmentation/
 
 ##  
 ## Results
@@ -50,11 +51,11 @@ matplolib==2.1.1
 ![result]( ./images/result.png)
 
 ###### (a) Input image (with field inhomogeneity artifact in MRI, out-of-phase angle image)
-###### (b) Label image (with field inhomogeneity artifact removal "SUPER" method in MRI > <SUPER-method/> https://synapse.koreamed.org/DOIx.php?id=10.13104/imri.2018.22.1.37)
+###### (b) Label image (with field inhomogeneity artifact removal "SUPER" method in MRI) 
+> "SUPER" method <SUPER-method/> https://synapse.koreamed.org/DOIx.php?id=10.13104/imri.2018.22.1.37
 ###### (c) Deep-Learning result image
 
-###  
-###  
+----------------------------------
 ### Water-Fat seperation result
 
 ![wf_result](./images/wf_result.png)
