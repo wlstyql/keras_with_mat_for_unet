@@ -4,7 +4,7 @@
 
 ###### Image pattern extraction using U-Net 
 
-##  
+- - -
 ## Requirements
 
 ###### (Windows) Python 3.5.2 ver
@@ -24,14 +24,14 @@ matplolib==2.1.1
 
 ~~~
 
-##  
+- - -
 ## Augmentation
 
 ###### image augmentation with rotation 90 degree, up-down filp, left-right flip randomly.
 
 ![augmentation]( ./images/augmentation.png)
 
-##  
+- - -
 ## Model
 
 ###### U-Net-based model for pattern extraction
@@ -43,7 +43,7 @@ matplolib==2.1.1
 ###### slight reference code
 > https://github.com/jocicmarko/ultrasound-nerve-segmentation/
 
-##  
+- - -
 ## Results
 ### Deep-Learning results
 ###### A few slices of Input image, Label image, Result image comparison
@@ -64,7 +64,7 @@ matplolib==2.1.1
 ###### (b) After artifact removal with "SUPER" method
 ###### (c) After artifact removal with trained "SUPER" method Deep-Learning
 
-##  
+- - -
 ## Feature visualization
 
 ![feature](./images/feature.png)
