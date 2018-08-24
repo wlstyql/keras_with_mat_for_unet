@@ -9,7 +9,7 @@
 - - -
 ## Requirements
 
-###### (Windows) Python 3.5.2 ver
+###### (Windows) Python 3.5.2 ver.
 
 ###### Details are shown below.
 
