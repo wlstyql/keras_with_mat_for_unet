@@ -1,7 +1,5 @@
 # Keras with mat for U-net
 
-###### Made by. Jin-soo, Kim
-
 ###### Implementation of the Keras U-Net for ".mat" file of MATLAB.
 
 ###### Image pattern extraction using U-Net 
