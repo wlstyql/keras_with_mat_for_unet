@@ -40,7 +40,7 @@ matplolib==2.1.1
 
 ###### U-Net
 > U-Net: Convolutional Networks for Biomedical Image Segmentation   <U-net/> <https://arxiv.org/abs/1505.04597>
-###### slight reference code
+###### Reference code
 > https://github.com/jocicmarko/ultrasound-nerve-segmentation/
 
 - - -
